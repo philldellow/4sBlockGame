@@ -1,16 +1,5 @@
 # 4sBlockGame
 ESP-32 Based Game Deveopment
----
-title: "Creating a simple block game on the ESP-32"
-slug: "/esp-32-block-game"
-authors: [pdellow]
-tags: [embedded, esp32, arduino, game]
-description: "ESP-32 with an in-builtOLED screen running a bespoke built block game"
-date: 2025-03-29
----
-import VideoPlayer from "@site/src/components/VideoPlayer";
-
-<VideoPlayer url="/videos/IMG_20250329_164536.mp4" />
 
 # Building a Block Game on the ESP-32
 
